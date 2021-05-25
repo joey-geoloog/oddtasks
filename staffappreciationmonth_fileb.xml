@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://raw.githubusercontent.com/joey4247/oddtasks/main/staffappreciationmonth.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/joey4247/oddtasks/main/staffappreciationmonth_fileb.xml" rel="self" type="application/rss+xml" />
     <title>Staff Appreciation Month</title>
     <link>https://www.uu.nl/organisatie/faculteit-geowetenschappen/over-de-faculteit/organisatie/faculteitsraad</link>
     <description>Faculteitsraad GEO</description>
